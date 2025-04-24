@@ -1,151 +1,160 @@
 [[bitshuffle]]
 arch = "aarch64"
-git-tree-sha1 = "04d7adf52ab4cd2d8b7d398bf0b3d42f51d7386f"
+git-tree-sha1 = "c5391d70be2c5de859d608e0cf2e2fd9b32a5328"
 os = "macos"
 
     [[bitshuffle.download]]
-    sha256 = "27fa1703675030c37132ae4d7ea00e2d5ff631ec68babd495b7c03792109ade4"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "0b33bccae1c10966580edab9287c81851595783933e9e829e91a4edeb8dc50b3"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.aarch64-apple-darwin.tar.gz"
 [[bitshuffle]]
 arch = "aarch64"
-git-tree-sha1 = "3288bcc679ae9e7ccf0cd4c4f307b5f4b101e092"
+git-tree-sha1 = "a2ee099bd71d7d898ef488fac86057d1cf981ea9"
 libc = "glibc"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "1968b86010db76996496ac325edcfa704b8a80f2663632340837e3921597bcaa"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "513018110695294dd7866f7cee941fd0934faa8725cc6fe3f47ae09a457be3ec"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.aarch64-linux-gnu.tar.gz"
 [[bitshuffle]]
 arch = "aarch64"
-git-tree-sha1 = "a536c242097488ea923eea5a6fe8b1c25538433e"
+git-tree-sha1 = "580b5f58a3b825a7a7b34ac5ad39faca97c93d88"
 libc = "musl"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "c5465a179fa7a850d884be99daaa92fff37af4d68f8436808f423ae6cfca1fd2"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.aarch64-linux-musl.tar.gz"
+    sha256 = "5ef7d4d56c55cbaa3bdd00e69f4215d4e09557ae51b661e8e4a35f66386e5800"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.aarch64-linux-musl.tar.gz"
 [[bitshuffle]]
 arch = "aarch64"
-git-tree-sha1 = "2957229f839689aad7c9545158fce9c5f4ad2f73"
+git-tree-sha1 = "d72ce19801e0112bc6412a1f33d9afc22277747c"
 os = "freebsd"
 
     [[bitshuffle.download]]
-    sha256 = "f5200a4db6434c06ad113fcfd8b0db7ff8483a2cc6d08ab231b0dc484de4da46"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "d5c8739c1589351887e22d4ff6db1bacf1af8135c414ce6b6e3b911d1a1a848c"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.aarch64-unknown-freebsd.tar.gz"
 [[bitshuffle]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "563f4b42c235ada3d7ddbb969b73d4d8ef1d4082"
+git-tree-sha1 = "2ed089f25ac4bd3be3414043a3c13675adf5cce6"
 libc = "glibc"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "5ae15cc15cfe3c53e9409de639008ad0a06b1815711144c8894c1c62e023c458"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "c43051dd4fb942ce698540c64e8d3a1d01de1df17e3d82f95bc8e54137d5aca4"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.armv6l-linux-gnueabihf.tar.gz"
 [[bitshuffle]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "36101c68a2c40cfff2b4eed400e3bac6c95345e6"
+git-tree-sha1 = "d368232b77ba3998ae31745a4c4920cbac1188b7"
 libc = "musl"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "26901bb47bd59c6cb6284eea630782f277de9892dc93d56cdb215a5e5ed30600"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "c13c1dd0ec3251be13b1563a3be95ced2b11d6e0060693d4965f4f4e81e88374"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.armv6l-linux-musleabihf.tar.gz"
 [[bitshuffle]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "47daa48971c4577f5aabeafe1ea80bb0d4eeb084"
+git-tree-sha1 = "3ed1d143c6c98a0a9a4d1d7a743e7c05f97d9b6b"
 libc = "glibc"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "68e23f60e87516f41d2485fa1a088c3fb7a9daa4c11897cd157b0b63caec58de"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "fdf44a210f3ff6f6b79513faac56903c18f0eff27cdf12a1cd6502f5f7d68336"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.armv7l-linux-gnueabihf.tar.gz"
 [[bitshuffle]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e050140d0749eca5fb3c9ba06649c63959d1172c"
+git-tree-sha1 = "81b834282c8510db26e86f184b31b62aec25b721"
 libc = "musl"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "d163b8f2e07e1df7bc77bcd362a2e22ced91bc77a7aae84e8f76c3cc2935b779"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "e40c4d13b45ea7ef42ffe637e912e0cd23965f89338d4f1d54eb517af9d6d7ee"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.armv7l-linux-musleabihf.tar.gz"
 [[bitshuffle]]
 arch = "i686"
-git-tree-sha1 = "d7e050f155b6e110ea09fa3a028ce258e65dc6da"
+git-tree-sha1 = "790f4949594881b545053f75586a9d0855e05b44"
 libc = "glibc"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "c608b875c7f8952774b66a4ba127c4e064fbd1b80a5cc56a54a7a9bf45f21c9f"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.i686-linux-gnu.tar.gz"
+    sha256 = "12cfc924ed08979eccb677c3752c2261055c8cedb2270381f3f3f9beae45bd49"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.i686-linux-gnu.tar.gz"
 [[bitshuffle]]
 arch = "i686"
-git-tree-sha1 = "7b130daeb8ce463a9af49421b1bde729491ff5c8"
+git-tree-sha1 = "361c7bb2ef4f48c60108af1d4b34e9153637f75b"
 libc = "musl"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "21490ec04c3a1afd798853f85830e1472ee9210723df71cec278aaf99d4f928e"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.i686-linux-musl.tar.gz"
+    sha256 = "f13a454cd74d9dcc2da6f87fc5dffdf10d02a3e70861dd1ea5ed455d07dde8f9"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.i686-linux-musl.tar.gz"
 [[bitshuffle]]
 arch = "i686"
-git-tree-sha1 = "9f5e90e348931a07ac65c4a0b64b8c72ee1f3969"
+git-tree-sha1 = "b92cecf0b9450bf2705253c379b801228f9b1f07"
 os = "windows"
 
     [[bitshuffle.download]]
-    sha256 = "c8729bbe0881ef89fc222db3e3189299edbc5b6bff023c54571bad768d88cc7b"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.i686-w64-mingw32.tar.gz"
+    sha256 = "270b26a6c9e032c2474d77fe30cbea826157689e03cb3f92b3b0557484e6ab50"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.i686-w64-mingw32.tar.gz"
 [[bitshuffle]]
 arch = "powerpc64le"
-git-tree-sha1 = "0980b3efbfba3e367b21b316eb6868d8efb35b5a"
+git-tree-sha1 = "13bff50167b36c4a8cac6c34cccf23632f5b93bc"
 libc = "glibc"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "a7705a9b9f10587f5bae91adaf8dd87525ea7f979033a8fd5e15f29ebc6ebd33"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d4c286f116cf4c901f243d879ddefb8dd0f90b4598172a1d77bbe707920064da"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.powerpc64le-linux-gnu.tar.gz"
+[[bitshuffle]]
+arch = "riscv64"
+git-tree-sha1 = "9a79a05e9616d3645b1045e713431660e1aa8502"
+libc = "glibc"
+os = "linux"
+
+    [[bitshuffle.download]]
+    sha256 = "d90e4b4bab8bea7e20a2adc8d246b53fe8ce2ba24327483b573817a3ec381d01"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.riscv64-linux-gnu.tar.gz"
 [[bitshuffle]]
 arch = "x86_64"
-git-tree-sha1 = "7c6649ed197ae8905d78dfb73be80f2a2a6ecb51"
+git-tree-sha1 = "0a460b35359c3238fc20e161a65431ca0b95e43a"
 os = "macos"
 
     [[bitshuffle.download]]
-    sha256 = "4bdb750aec494b2a43baa225891ce85343e90d59921ceb8dbd991a190f15cafb"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "1a753129a9d343bebf8364c0cbf76cedced1497cda11472791c2339f2fa78a39"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.x86_64-apple-darwin.tar.gz"
 [[bitshuffle]]
 arch = "x86_64"
-git-tree-sha1 = "12bd5136bb27956a511827c748f64e7860cdc9dc"
+git-tree-sha1 = "ac2d2cc2fb3a50b766ff0357650eaba4048adcd2"
 libc = "glibc"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "f8997bf018e54bb5c28fcfa2544b7fced5965d8037605c25c44f6509142a77cd"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "e4b926333ee387e813e8413211b564a91cd45653026b4ac438e2d6890ae03554"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.x86_64-linux-gnu.tar.gz"
 [[bitshuffle]]
 arch = "x86_64"
-git-tree-sha1 = "2b6ab5e6d5f8856e9bc767ae677f116ba00d730f"
+git-tree-sha1 = "e8132542a2bc63351fc37e61b6901769d9ccff45"
 libc = "musl"
 os = "linux"
 
     [[bitshuffle.download]]
-    sha256 = "82a4b7357142f88ea1b516114011457f8fd6ff8be1744d90dd7848e3c3660aec"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.x86_64-linux-musl.tar.gz"
+    sha256 = "32ac396ed451233d82b2e12ac3bd90f7b6eb6d2b8f0334919b6d8fdcc564be99"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.x86_64-linux-musl.tar.gz"
 [[bitshuffle]]
 arch = "x86_64"
-git-tree-sha1 = "8c8754fa09c955a8e732857146dd3d2200afa2f6"
+git-tree-sha1 = "948a33cf1d21665291a417c61297db7dae535eeb"
 os = "freebsd"
 
     [[bitshuffle.download]]
-    sha256 = "b987ead6ed396164d0f1b20cdebed39fd7e78c01402796ecfdd5944eba1c5f17"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "785e552c44db9bda000accdcff1f54b2112a054d6bbe2eb4cc7171b76c1ffa61"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.x86_64-unknown-freebsd.tar.gz"
 [[bitshuffle]]
 arch = "x86_64"
-git-tree-sha1 = "26c6caee4fee63c07e6af8fbb0f1482c6056395a"
+git-tree-sha1 = "1694c287fae6ea87791a3d8d8d3ef0d6ae26b980"
 os = "windows"
 
     [[bitshuffle.download]]
-    sha256 = "984a957fff763a9fe22903d18a253db33175997c0269fd7c76ce607d7bf142cd"
-    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.1+1/bitshuffle.v0.5.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "419dffdf0f538600dfc381d34b47854ef87cd6aed3663d36f14b6a1df1f44e9e"
+    url = "https://github.com/JuliaBinaryWrappers/bitshuffle_jll.jl/releases/download/bitshuffle-v0.5.2+0/bitshuffle.v0.5.2.x86_64-w64-mingw32.tar.gz"
